@@ -1,0 +1,2 @@
+Please Note that in order to begin the Traffic Cycle SW0(Under RED LED) on control box needs to be ON.
+Another thing noticed , different traffic light models (at least 2 were used) have different pedestrian buttons layout. 
